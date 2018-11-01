@@ -3,11 +3,14 @@ def new_hash
 end
 
 def actor
-
+	# binding.pry
 end
 
 def monopoly
 	monopoly = {}
+	[1,2,3,4,4,56,67].each do |num|
+		binding.pry
+	end
 
 end
 
